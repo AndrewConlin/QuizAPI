@@ -24,6 +24,8 @@ public class QuizDAO {
 	
 	public Quiz show(int id){
 		Quiz q =  em.find(Quiz.class, id); 
+		System.out.println(q);
+		System.out.println("QUIZ");
 		return q; 
 	}
 	
@@ -43,8 +45,7 @@ public class QuizDAO {
 	}
 	
 	public void addQuestion(int id, Question question){
-		Quiz q = em.find(Quiz.class, id); 
-		question.setQuiz(q);
+		System.out.println(question);
 		em.persist(question);
 		em.flush();
  	}

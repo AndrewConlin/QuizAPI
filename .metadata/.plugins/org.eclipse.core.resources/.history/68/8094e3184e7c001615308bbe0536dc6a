@@ -12,6 +12,9 @@ public class Answer {
 	@GeneratedValue(strategy = GenerationType.IDENTITY)
 	private int id;
 	
+//	@JoinColumn(name="question_id")
+//	private int question_id;
+	
 	private String answerText;
 	private boolean isCorrect;
 
@@ -24,6 +27,14 @@ public class Answer {
 	public void setId(int id) {
 		this.id = id;
 	}
+
+//	public int getQuestion_id() {
+//		return question_id;
+//	}
+//
+//	public void setQuestion_id(int question_id) {
+//		this.question_id = question_id;
+//	}
 
 	public String getAnswerText() {
 		return answerText;

@@ -45,6 +45,14 @@ public class Question {
 		this.id = id;
 	}
 
+//	public int getQuiz_id() {
+//		return quiz_id;
+//	}
+//
+//	public void setQuiz_id(int quiz_id) {
+//		this.quiz_id = quiz_id;
+//	}
+
 	public Set<Answer> getAnswers() {
 		return answers;
 	}

@@ -197,3 +197,35 @@
 2016-09-16 14:33:32,203 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
 2016-09-16 14:33:32,203 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
 2016-09-16 14:33:32,203 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/andrewconlin/SDJobFiles/ProjectBuilds/QuizAPI/QuizJPA/src/test/resources
+2016-09-16 14:42:21,707 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-16 14:42:21,710 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-16 14:42:21,711 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-16 14:42:21,711 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/andrewconlin/SDJobFiles/ProjectBuilds/QuizAPI/QuizJPA/src/test/resources
+2016-09-16 14:42:35,005 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-16 14:42:35,006 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-16 14:42:35,007 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-16 14:42:35,007 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/andrewconlin/SDJobFiles/ProjectBuilds/QuizAPI/QuizJPA/src/test/resources
+2016-09-16 14:42:39,822 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-16 14:42:39,823 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-16 14:42:39,823 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-16 14:42:39,823 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/andrewconlin/SDJobFiles/ProjectBuilds/QuizAPI/QuizJPA/src/test/resources
+2016-09-16 14:42:40,969 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-16 14:42:40,970 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-16 14:42:40,971 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-16 14:42:40,971 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/andrewconlin/SDJobFiles/ProjectBuilds/QuizAPI/QuizJPA/src/test/resources
+2016-09-16 14:43:33,560 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-16 14:43:33,560 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/andrewconlin/SDJobFiles/ProjectBuilds/QuizAPI/Quiz/src/main/resources
+2016-09-16 14:43:33,561 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-16 14:43:33,561 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/andrewconlin/SDJobFiles/ProjectBuilds/QuizAPI/Quiz/src/test/resources
+2016-09-16 14:44:35,064 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-16 14:44:35,065 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/andrewconlin/SDJobFiles/ProjectBuilds/QuizAPI/Quiz/src/main/resources
+2016-09-16 14:44:35,066 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-16 14:44:35,066 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/andrewconlin/SDJobFiles/ProjectBuilds/QuizAPI/Quiz/src/test/resources
+2016-09-16 14:44:37,445 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-16 14:44:37,445 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/andrewconlin/SDJobFiles/ProjectBuilds/QuizAPI/Quiz/src/main/resources
+2016-09-16 14:44:37,446 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-16 14:44:37,446 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/andrewconlin/SDJobFiles/ProjectBuilds/QuizAPI/Quiz/src/test/resources
+2016-09-16 14:46:29,948 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-16 14:46:29,949 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/andrewconlin/SDJobFiles/ProjectBuilds/QuizAPI/Quiz/src/main/resources
+2016-09-16 14:46:29,949 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-16 14:46:29,950 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/andrewconlin/SDJobFiles/ProjectBuilds/QuizAPI/Quiz/src/test/resources

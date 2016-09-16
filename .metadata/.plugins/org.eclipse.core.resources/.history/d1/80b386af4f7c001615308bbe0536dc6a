@@ -6,8 +6,6 @@ import javax.persistence.GenerationType;
 import javax.persistence.Id;
 import javax.persistence.JoinColumn;
 
-import com.fasterxml.jackson.annotation.JsonIgnore;
-
 @Entity
 public class Answer {
 	@Id
@@ -15,8 +13,6 @@ public class Answer {
 	private int id;
 	
 	private String answerText;
-	
-	@JsonIgnore
 	private boolean isCorrect;
 
 	public Answer(){}

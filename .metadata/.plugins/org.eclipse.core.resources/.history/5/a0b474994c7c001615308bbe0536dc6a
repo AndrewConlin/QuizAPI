@@ -1,0 +1,30 @@
+package entities;
+
+import javax.persistence.EntityManager;
+import javax.persistence.EntityManagerFactory;
+import javax.persistence.Persistence;
+
+public class test {
+	public static void main(String[] args) {
+		System.out.println("Finding a score...");
+		EntityManagerFactory emf = Persistence.createEntityManagerFactory("QuizJPA");
+		EntityManager em = emf.createEntityManager();
+		
+		Quiz s = em.find(Quiz.class, 2);
+		for (Question q : s.getQuestions()) {
+			System.out.println(q.getQuiz());
+		}
+//		em.getTransaction().begin();
+//		
+//		User user = new User();
+//		user.setPassword("wombat2");
+//		user.setUsername("wombatmaster");
+//		
+//		em.persist(user);
+//		
+//		em.getTransaction().commit();
+		
+		em.close();
+		emf.close();
+	}
+}

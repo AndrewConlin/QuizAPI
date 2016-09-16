@@ -11,7 +11,10 @@ public class test {
 		EntityManager em = emf.createEntityManager();
 		
 		Quiz s = em.find(Quiz.class, 2);
-		System.out.println(s);
+		for (Question q : s.getQuestions()) {
+			Quiz z = q.getQuiz();
+			System.out.println(z);
+		}
 //		em.getTransaction().begin();
 //		
 //		User user = new User();

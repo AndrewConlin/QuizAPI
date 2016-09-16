@@ -11,8 +11,12 @@ import javax.persistence.GenerationType;
 import javax.persistence.Id;
 import javax.persistence.JoinColumn;
 import javax.persistence.OneToMany;
+import javax.persistence.Table;
+
+import com.fasterxml.jackson.annotation.JsonManagedReference;
 
 @Entity
+@Table(name= "quiz")
 public class Quiz {
 	@Id
 	@GeneratedValue(strategy = GenerationType.IDENTITY)
@@ -20,8 +24,8 @@ public class Quiz {
 	
 	private String name;
 	
-	@OneToMany(cascade=CascadeType.ALL, fetch = FetchType.EAGER)
-	@JoinColumn(name="quiz_id", referencedColumnName="id", nullable =false)
+	@OneToMany(mappedBy="quiz", cascade=CascadeType.ALL, fetch = FetchType.EAGER)
+	@JsonManagedReference
 	private Set<Question> questions;
 	
 	public Quiz(){}
